@@ -1,3 +1,4 @@
 0.0.0.0 rndskittytor.com
 0.0.0.0 cdn.bncloudfl.com
 0.0.0.0 go.xlivrdr.com
+0.0.0.0 ads.trafficjunky.net
