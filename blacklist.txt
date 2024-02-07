@@ -29,3 +29,12 @@
 0.0.0.0 sessions.bugsnag.com
 0.0.0.0 api.bugsnag.com
 0.0.0.0 app.bugsnag.com
+0.0.0.0 cdn.mouseflow.com
+0.0.0.0 tools.mouseflow.com
+0.0.0.0 realtime.luckyorange.com
+0.0.0.0 api.luckyorange.com
+0.0.0.0 adm.hotjar.com
+0.0.0.0 identify.hotjar.com
+0.0.0.0 surveys.hotjar.com
+0.0.0.0 ads.linkedin.com
+0.0.0.0 advice-ads.s3.amazonaws.com
