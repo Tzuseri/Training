@@ -1,8 +1,5 @@
 0.0.0.0
 127.0.0.1
-hitomi.la
-hentaila.com
-nhentai.to
 1drv.com
 1drv.ms
 1e100.net
@@ -354,6 +351,9 @@ gspe9.ls.apple.com.akadns.net
 gspe9.ls.apple.com.edgesuite.net
 gsps36.ls.apple.com
 gstatic.com
+hitomi.la
+hentaila.com
+nhentai.to
 guide.opendns.com
 guzzoni.apple.com
 gvt1.com
